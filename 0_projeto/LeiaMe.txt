@@ -1,0 +1,26 @@
+==================================================
+*******LeiaMe.txt*********
+---------------------------
+Programa executa a função #define
+Utiliza um struct
+Utiliza os comandos loop swich e while para interface
+Execução básica do programa
+~:$ gcc main.c funcao.c <outras.c> defs.h protos.h data.h <outro.h> -o <binario_do_projeto>.exe
+
+=================================================
+Para executar o programa utilizando o compilador
+mingw32gw faça:
+C:\...\diretorio\> g++ main.c funcao.c defs.h protos.h data.h -o programa.exe
+Se não funcionar o g++ faça:
+C:\...\diretorio\> gcc main.c funcao.c defs.h protos.h data.h -o programa.exe
+Utilizando a função mingw32-make faça:
+==================================================
+                Termnal
+------------------------------------------------
+all:
+	gcc main.c funcao.c defs.h protos.h data.h -o programa.exe
+====================================================
+#)-> Salve como: makefile 
+C:\...\diretorio\> mingw32-make
+#)-> O programa será compilado.
+
