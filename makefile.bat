@@ -1,0 +1,1 @@
+gcc main.c ihm.c defs.h data.h protos.h  -o chess.exe
