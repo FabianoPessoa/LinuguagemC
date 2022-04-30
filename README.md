@@ -1,4 +1,4 @@
-# Jogo da Velhar Pic-Poc em Linguagem C
+# Jogo da Velhar Tic-Tac em Linguagem C
 
 ## Estrutura para construção do Programa
 
