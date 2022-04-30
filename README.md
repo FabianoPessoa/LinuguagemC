@@ -1,4 +1,6 @@
-# LinguagemC
+# Jogo da Velhar Pic-Poc em Linguagem C
+
+## Estrutura para construção do Programa
 
 Esse projeto destina-se a utilização de 
 linguagem de programação em C e algoritmos
